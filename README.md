@@ -14,7 +14,7 @@
 - ***bolditalic***
 
 [Google gitmek için tıklayınız](https://google.com)
-![Google gitmek için tıklayınız](https://google.com)
+![Lorem Picsum Gorsel](https://picsum.photos/200/300)
 
 Bu bir deneme sürümüdür
 Test amaçlı yapılmıştır
