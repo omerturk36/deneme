@@ -13,5 +13,8 @@
 - **bold**
 - ***bolditalic***
 
+[Google gitmek için tıklayınız](https://google.com)
+![Google gitmek için tıklayınız](https://google.com)
+
 Bu bir deneme sürümüdür
 Test amaçlı yapılmıştır
